@@ -1,4 +1,4 @@
-***Code is currently very buggy and not ready to be used. Will update README.md after I fix the issues and implement all of the features.***
+***Project is currently in development. Will update README.md when it's ready.***
 # Webcam-Monitor
 
 A Python script that turns your webcam into a surveillance camera.  
